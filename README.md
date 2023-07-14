@@ -1,2 +1,2 @@
 # Event-Automation-
-A Python script for clustering user data and generating events based on different grouping criteria using a MySQL database.
+Event Automation is a Python script that demonstrates how to cluster user data and generate events based on different grouping criteria using a MySQL database. The script uses techniques such as spectral clustering and data manipulation with pandas to create meaningful event clusters for a given set of users. The resulting events are stored in the MySQL database, and the script also generates a CSV file containing the output data.
